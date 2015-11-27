@@ -1,0 +1,30 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.project.anderson.e_lixo.MainActivity">
+
+    <item
+        android:id="@+id/menuLocal"
+        android:title="Local de coleta"
+        android:icon="@drawable/ic_action_location"
+        app:showAsAction="always"
+        />
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/action_exportar_dados"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="Exportar dados"/>
+     <item
+        android:id="@+id/action_sobre"
+        android:orderInCategory="100"
+         app:showAsAction="never"
+        android:title="Sobre"/>
+
+</menu>

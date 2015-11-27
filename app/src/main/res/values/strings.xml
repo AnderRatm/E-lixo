@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">E-lixo</string>
+    <string name="action_settings">Settings</string>
+    <string name="itens_adicionados">Itens Adicionados</string>
+    <string name="infoma_local">Selecione um local de coleta para iniciar!</string>
+    <string name="dados_enviados">Dados exportados com sucesso</string>
+    <string name="erro_dados_enviados">Erro ao salvar dados, tente novamente</string>
+</resources>
